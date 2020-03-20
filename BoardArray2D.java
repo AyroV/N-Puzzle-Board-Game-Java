@@ -50,7 +50,7 @@ public class BoardArray2D extends AbstractBoard {
      */
     BoardArray2D() {
         totalMoves = x = y = 0;
-        previousMove = "S";
+        previousMove = "None";
     }
 
     /**
