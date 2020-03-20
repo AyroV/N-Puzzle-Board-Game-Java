@@ -1,4 +1,5 @@
 package HW7_161044041;
+//Outdated and nothing to do with working project. It just another way to hold the game board.(As 1 dimensional array)
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
